@@ -1,1 +1,1 @@
-I'm doing my homework. Git is hard.
+Today's date is Oct 31, 2014
